@@ -73,11 +73,6 @@ DATABASES = {
    python manage.py migrate
    ```
 
-2. **Create a Superuser** for admin access:
-   ```bash
-   python manage.py createsuperuser
-   ```
-
 ---
 
 ## Running the Project
